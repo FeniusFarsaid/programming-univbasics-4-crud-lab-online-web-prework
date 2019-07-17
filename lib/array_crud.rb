@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["Mexico", "Guatemala", "Belize"]
+  ["Mexico", "Guatemala", "Belize", "El_Salvador"]
 end
 
 def add_element_to_end_of_array(array, element)
