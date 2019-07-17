@@ -6,7 +6,7 @@ def create_an_array
   ["Mexico", "Guatemala", "Belize", "El_Salvador"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array(create_an_array, "Honduras")
   create_an_array << "Honduras"
 end
 
